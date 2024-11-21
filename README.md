@@ -19,3 +19,14 @@ Our Y variable was based on loan_status which was binary.
 0 represents a Healthy Loan  
 1 represents a High-Risk Loan.  
 
+For this machine learning process I had to scale the X data to normalize the features for of the logistic regression model. Logistic regression models are favorable for analyzing binary data. The random state used for training the model was a random state of 1. 
+
+### Results
+Machine Learning Logistic Regression Classification Report:
+Classification Report
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00     18765
+           1       0.84      0.99      0.91       619
+
+    accuracy                           0.99     19384
