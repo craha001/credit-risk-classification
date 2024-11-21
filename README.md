@@ -4,7 +4,7 @@ Module 20 Challenge
 ## Overview of the Analysis
 
 ### Purpose of the Analysis
-The goal for this weeks challenge was to develop a machine learning model to predict loan outcomes based on lending data. This prediction would allow the institution to separate high-risk loans and healthy loans making overall better lending decisions.
+The goal for this weeks challenge was to develop a machine learning model to predict loan outcomes based on lending data. This prediction would allow the institution to separate high-risk loans and healthy loans making overall better lending decisions.  
 Below is a list of X variabls or Features of machine learning model:  
 
 loan_size: Size of the loan applied for.  
